@@ -26,6 +26,7 @@ switch (comando) {
     break;
 }
 
+//Esto es una prueba desde GitHub
 
 /* let parametro = argv[2];
 let base = parametro.split('=')[1]; */
